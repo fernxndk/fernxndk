@@ -8,4 +8,4 @@ On my free time, I usually solve code challenges on platforms like HackerRank an
 
 I'm currently studying about Javascript ecosytem, especifically the MERN stack (MongoDB, Express, React and Node.js), i really enjoy working on these technologies and hope to get a job soon.
 
-  [![HitCount](https://hits.dwyl.com/fernandofrance/{project}.svg?style=flat)](http://hits.dwyl.com/fernandofrance/{project})
+[![HitCount](https://hits.dwyl.com/fernandofrance/fernandofrance/fernandofrance.svg?style=flat)](http://hits.dwyl.com/fernandofrance/fernandofrance/fernandofrance)
