@@ -8,4 +8,3 @@ On my free time, I usually solve code challenges on platforms like HackerRank an
 
 I'm currently studying about Java, design patterns, algorithms and data structures.
 
-[![HitCount](https://hits.dwyl.com/fernandofrance/fernandofrance/fernandofrance.svg?style=flat)](http://hits.dwyl.com/fernandofrance/fernandofrance/fernandofrance)
