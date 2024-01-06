@@ -6,6 +6,6 @@ I don't really know how u got here, but I will try to show a little bit about my
 My name is Luiz Fernando. I currently live in São Paulo, Brazil and my work is to solve problems. 
 On my free time, I usually solve code challenges on platforms like HackerRank and LeetCode.
 
-I'm currently studying about Java, design patterns, algorithms and data structures.
+I'm currently studying about Java, its frameworks, design patterns, algorithms and data structures.
 
 
