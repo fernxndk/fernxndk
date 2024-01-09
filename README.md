@@ -8,4 +8,3 @@ On my free time, I usually solve code challenges on platforms like HackerRank an
 
 I'm currently studying about Java, its frameworks, design patterns, algorithms and data structures.
 
-
